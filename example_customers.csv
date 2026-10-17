@@ -1,0 +1,10 @@
+name,phone,email,last_service_date,last_service,lifetime_value,visits,opted_out,last_contacted,service_interval_days
+Dana Whitfield,+15550100001,dana@example.com,2025-12-01,AC tune-up,1850,7,,,365
+Marcus Lee,+15550100002,,2026-03-10,Furnace repair,420,2,,,365
+Priya Nair,,priya@example.com,2025-09-20,Duct cleaning,980,4,,,540
+Tom Becker,+15550100004,tom@example.com,2026-07-25,AC tune-up,300,1,,,365
+Alicia Gomez,+15550100005,,2025-04-02,Water heater install,2400,5,,,730
+Ben Carter,+15550100006,,2026-02-14,Filter change,150,3,yes,,180
+Hannah Cole,+15550100007,,2026-04-01,AC tune-up,610,3,,2026-10-05,365
+Ivan Petrov,,,2026-01-10,Thermostat install,500,1,,,365
+Grace Okafor,+15550100009,grace@example.com,2026-05-02,Furnace tune-up,1120,6,,,365

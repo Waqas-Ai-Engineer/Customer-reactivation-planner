@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+my_*.csv
+plan.csv
+.venv/

@@ -1,0 +1,9 @@
+{
+  "business_name": "Sample HVAC Co (demo)",
+  "owner_name": "Sam",
+  "booking_link": "https://example.com/book",
+  "offer_text": "10% off your next visit",
+  "cooldown_days": 30,
+  "vip_lifetime_value": 1000,
+  "max_per_day": 25
+}

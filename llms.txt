@@ -1,0 +1,18 @@
+# customer-reactivation-planner
+
+> Free, self-hosted, zero-dependency Python CLI that turns a customer CSV into a prioritized daily win-back plan with ready-to-send SMS/email text, for service businesses.
+
+## Key files
+- crp.py: entry point (python crp.py demo | plan)
+- crp_core.py: dormancy tiers, rules, priority scoring, plan building
+- crp_cli.py: argument parsing, table/JSON/CSV output
+- crp_templates.py: editable SMS and email wording
+- example_customers.csv / example_config.json: sample input and config
+- test_crp.py: unit tests (python -m unittest)
+- COMPLIANCE.md: consent and opt-out notes (not legal advice)
+
+## Quickstart
+python crp.py demo
+
+## License
+MIT
